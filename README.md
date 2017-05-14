@@ -1,5 +1,4 @@
-
-php相关源代码记录 php memcache封装类 带注释
+php memcache封装类 带注释
 
 使用方法：
 
